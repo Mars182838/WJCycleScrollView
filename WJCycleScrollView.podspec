@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
 s.name         = "WJCycleScrollView"
-s.version      = "1.2.0"
+s.version      = "1.3.0"
 s.summary      = "We need to observe the Categories of network for iOS. That's what EBCategories do."
 
 
@@ -20,7 +20,7 @@ s.license      = "MIT"
 s.author             = { "mars182838" => "wj182838@126.com" }
 s.platform = :ios
 s.ios.deployment_target = '8.0'
-s.source       = { :git => "https://github.com/Mars182838/WJCycleScrollView.git", :tag => "1.2.0" }
+s.source       = { :git => "https://github.com/Mars182838/WJCycleScrollView.git", :tag => "1.3.0" }
 s.source_files  = "WJCycleScrollView"
 s.requires_arc = true
 end
